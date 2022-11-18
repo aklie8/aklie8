@@ -3,6 +3,14 @@
 <!--
 **aklie8/aklie8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
+<a href="https://www.linkedin.com/in/aklile-tesfaye-521117153/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
+
+![Aklile's GitHub stats](https://github-readme-stats.vercel.app/api?username=aklie8&show_icons=true&theme=transparent)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aklie8)](https://https://github.com/aklie8/aklie8/edit/main/README.md)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -15,7 +23,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://www.linkedin.com/in/aklile-tesfaye-521117153/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 <a href="https://github.com/aklie8">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roxiomontes&theme=material-palenight" />
@@ -28,6 +35,3 @@ Here are some ideas to get you started:
 </a><br>
 
 
-![Aklile's GitHub stats](https://github-readme-stats.vercel.app/api?username=aklie8&show_icons=true&theme=transparent)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aklie8)](https://https://github.com/aklie8/aklie8/edit/main/README.md)
