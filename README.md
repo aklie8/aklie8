@@ -30,4 +30,8 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aklie8&layout=compact&theme=material-palenight" />
 </a><br>
 
+<img src="https://github.com/aklie8/aklie8/blob/main/test1.gif"/>
+
+
+
 
