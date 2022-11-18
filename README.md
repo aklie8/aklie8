@@ -30,8 +30,9 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aklie8&layout=compact&theme=material-palenight" />
 </a><br>
 
-<img src="https://github.com/aklie8/aklie8/blob/main/test1.gif"/>
 
 
+
+![octocat-1668800634858](https://user-images.githubusercontent.com/89615383/202789203-93ed3ced-4a3f-4855-b828-d37f3ccbca71.png)
 
 
