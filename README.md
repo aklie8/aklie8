@@ -31,8 +31,6 @@ Here are some ideas to get you started:
 </a><br>
 
 
-
-
 ![octocat-1668800634858](https://user-images.githubusercontent.com/89615383/202789203-93ed3ced-4a3f-4855-b828-d37f3ccbca71.png)
 
 
