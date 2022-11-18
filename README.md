@@ -30,3 +30,4 @@ Here are some ideas to get you started:
 
 ![Aklile's GitHub stats](https://github-readme-stats.vercel.app/api?username=aklie8&show_icons=true&theme=transparent)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aklie8)](https://https://github.com/aklie8/aklie8/edit/main/README.md)
